@@ -87,7 +87,7 @@ Substitua o `{APP_NAME}` pelo nome do seu app!
     * User
     * URI
 
-- **Comando**, altere os valores ({Database}, {User} e {URI}) pelos valores copiados no passo anterior.
+- **Comando**, altere os valores ({User} e {URI}) pelos valores copiados no passo anterior.
 
     ```sh
     # altere a {URI} E {APP_NAME}
