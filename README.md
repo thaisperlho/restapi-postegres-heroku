@@ -14,7 +14,7 @@ ___
 
 ### __2. Depois de ter instalado _HEROKU CLI_ Abra o terminal__
 - Windows: Abra o Powersh como administrador.
-    ![Powersh](/img/powersh.jpeg)
+    ![Powersh](/img/powershell.jpeg)
 
 - Linux/Mac: Abra o terminal
     ![terminal](/img/terminal.png)
